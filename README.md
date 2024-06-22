@@ -1,25 +1,25 @@
 # Heart-Disease-Diagnostic-Analysis-UM1
-OBJECTIVE 🎯 
+# OBJECTIVE 🎯 
 
 The goal of this project is to analyze the occurrence of heart disease using a combination of features that represent heart disease. 
 
-PROBLEM ❓ 
+# PROBLEM ❓ 
 
 Health is true wealth. During the pandemic, we all realized the brutal impact of COVID-19 on all people, regardless of their position. We need to analyze this health and medical data to better prepare for the future. 
 
-DOMAIN 🏥 
+# DOMAIN 🏥 
 
 Healthcare 
 
-PROGRAMMING LANGUAGE 🐍 
+# PROGRAMMING LANGUAGE 🐍 
 
 Python 
 
-TOOLS 🛠 
+# TOOLS 🛠 
 
 MS Excel, MS Power BI 
 
-CONCLUSION 💡 
+# CONCLUSION 💡 
 
 -45.87% of people have heart disease. 
  
